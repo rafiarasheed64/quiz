@@ -1,0 +1,23 @@
+button{
+  background-color: cadetblue;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+button:hover{
+  background-color: rgb(53, 111, 113);
+  color: white;
+
+}
+input,select{
+  padding: 10px;
+}
+.ques-div{
+  border-radius: 5px;
+  margin-top: 20px;
+  border: 1px solid;
+  box-shadow: 7px 7px 10px grey;
+  padding: 10px;
+}
